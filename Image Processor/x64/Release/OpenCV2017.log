@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 중간 디렉터리(x64\Release\)에 다른 프로젝트(OpenCV2017.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  ImageHandler.cpp
+c:\users\yoon\source\repos\영상 처리 소프트웨어\opencv2017\MatHandler.h(7): warning C4005: 'MAX': 매크로 재정의
+  C:\OpenCV\build\include\opencv2/core/cvdef.h(319): note: 'MAX'의 이전 정의를 참조하십시오.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\opencv2017\MatHandler.h(8): warning C4005: 'MIN': 매크로 재정의
+  C:\OpenCV\build\include\opencv2/core/cvdef.h(315): note: 'MIN'의 이전 정의를 참조하십시오.
+ImageHandler.cpp(53): warning C4244: '=': 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+ImageHandler.cpp(112): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+ImageHandler.cpp(114): warning C4244: '/=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MatHandler.cpp
+c:\users\yoon\source\repos\영상 처리 소프트웨어\opencv2017\MatHandler.h(7): warning C4005: 'MAX': 매크로 재정의
+  C:\OpenCV\build\include\opencv2/core/cvdef.h(319): note: 'MAX'의 이전 정의를 참조하십시오.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\opencv2017\MatHandler.h(8): warning C4005: 'MIN': 매크로 재정의
+  C:\OpenCV\build\include\opencv2/core/cvdef.h(315): note: 'MIN'의 이전 정의를 참조하십시오.
+  main.cpp
+c:\users\yoon\source\repos\영상 처리 소프트웨어\opencv2017\MatHandler.h(7): warning C4005: 'MAX': 매크로 재정의
+  C:\OpenCV\build\include\opencv2/core/cvdef.h(319): note: 'MAX'의 이전 정의를 참조하십시오.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\opencv2017\MatHandler.h(8): warning C4005: 'MIN': 매크로 재정의
+  C:\OpenCV\build\include\opencv2/core/cvdef.h(315): note: 'MIN'의 이전 정의를 참조하십시오.
+main.cpp(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다.
+  All 319 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  OpenCV2017.vcxproj -> C:\Users\yoon\source\repos\영상 처리 소프트웨어\x64\Release\Image Processor.exe
+  OpenCV2017.vcxproj -> C:\Users\yoon\source\repos\영상 처리 소프트웨어\x64\Release\Image Processor.pdb (Full PDB)

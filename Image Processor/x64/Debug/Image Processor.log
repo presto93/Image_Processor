@@ -1,0 +1,58 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(OpenCV2017.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  main.cpp
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(166): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(167): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(181): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(182): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(196): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(197): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(211): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(212): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(88): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(106): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(164): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(179): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(194): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(209): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\main.cpp(222): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  MatHandler.cpp
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\mathandler.cpp(65): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\mathandler.cpp(151): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(242): note: 'freopen' 선언을 참조하십시오.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\mathandler.cpp(210): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\mathandler.cpp(220): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\mathandler.cpp(289): warning C4805: '|': 연산에 'uchar' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\mathandler.cpp(298): warning C4805: '&=': 연산에 'bool' 형식과 'int' 형식을 함께 사용하는 것은 안전하지 않습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\mathandler.cpp(298): warning C4805: '&': 연산에 'bool' 형식과 'int' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  ImageHandler.cpp
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(119): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(121): warning C4244: '/=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(293): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(354): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(371): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(377): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(382): warning C4244: '초기화 중': 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(383): warning C4244: '초기화 중': 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(384): warning C4244: '초기화 중': 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(385): warning C4244: '초기화 중': 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(387): warning C4244: '=': 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(405): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(406): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(410): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(411): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(418): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yoon\source\repos\영상 처리 소프트웨어\image processor\imagehandler.cpp(421): warning C4244: '=': 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Image Processor.vcxproj -> C:\Users\yoon\source\repos\영상 처리 소프트웨어\x64\Debug\Image Processor.exe
+  Image Processor.vcxproj -> C:\Users\yoon\source\repos\영상 처리 소프트웨어\x64\Debug\Image Processor.pdb (Partial PDB)
